@@ -6,8 +6,10 @@
 ### 数据标准化
 ![image](https://github.com/Sauzichensun/Mathor/assets/157706474/3c5a7946-ebe7-4f5d-9c1c-4481dff2bec3)
 ![image](https://github.com/Sauzichensun/Mathor/assets/157706474/e23c877f-adc1-412f-8435-1362cd74c677)
+### 数据K聚类分析
 ![image](https://github.com/Sauzichensun/Mathor/assets/157706474/1952f83a-d83d-4f7f-930a-3f2886f38cd5)
 ![image](https://github.com/Sauzichensun/Mathor/assets/157706474/fda007f3-cb27-4dfc-b681-ab026be2ba96)
+#### 聚类变量设置
 ![image](https://github.com/Sauzichensun/Mathor/assets/157706474/c8cb4bae-b8af-43a3-b1c9-330c71a8df66)
 ![image](https://github.com/Sauzichensun/Mathor/assets/157706474/8b63a048-fd61-4b04-a4dd-47af4d7cb961)
-![image](https://github.com/Sauzichensun/Mathor/assets/157706474/02cbd649-16cf-47c4-b54b-00e6f51f1bcb)
+![image](https://github.com/Sauzichensun/Mathor/assets/157706474/99d8957b-3628-458b-aa9f-9bec9a5d9a97)
