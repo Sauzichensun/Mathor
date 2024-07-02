@@ -13,6 +13,7 @@ y_data = np.array([[3806,398,850,1352],
                    [1988,511,1100,763]])
 # 数据预处理
 # x_data[:,0]切片索引
+
 plt.plot(x_data,y_data[:,0],'o-',label='结婚对数',linewidth=2)
 plt.plot(x_data,y_data[:,1],'o-',label='房价',linewidth=2)
 plt.plot(x_data,y_data[:,2],'o-',label='人均收入',linewidth=2)
