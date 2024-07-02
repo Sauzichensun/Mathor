@@ -10,7 +10,7 @@ y_data = np.array([[3806,398,850,1352],
 
 # 数据预处理
 col_means = np.mean(y_data,axis=0) # 求每列的平均值axis=0
-y_data = y_data / col_means
+y_data = y_data / col_means # np有广播机制不用拓展维度
 
 # 确定分析数列，即因变量与自变量，这里第一列为因变量，其余为自变量
 
